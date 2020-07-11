@@ -1,7 +1,6 @@
 {
-  "name": "react-swipeable-views-workspace",
-  "version": "0.13.6",
-  "private": true,
+  "name": "react-swipeable-views-listingslab",
+  "version": "0.2.7",
   "scripts": {
     "lint": "eslint . && echo \"eslint: no lint errors\"",
     "test": "echo \"ok\"",
